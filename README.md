@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Hari-AJ
+- 👀 I’m interested in Programming and Web Devolopment 
+- 🌱 I’m currently pursuing B.Tech CSE(IoT)
+- 💞️ I have knowledge in Python, C ,C++, JAVA, HTML ,CSS, JavaScript, Node, MYSQL, PL/SQL
+- 📫 Reach me at Linkedin:Hari K and Mail: hariiajkrishnan@gmail.com
+
+<!---
+I love watching Movies , I like to explore various Genre in world cinema. I like researching about them also.
+--->
