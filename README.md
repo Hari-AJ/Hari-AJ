@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari-AJ
+- 👋 Hi, I’m @Hari Krishnan AJ
 - 👀 I’m interested in Programming and Web Devolopment 
 - 🌱 I’m currently pursuing B.Tech CSE(IoT)
 - 💞️ I have knowledge in Python, C ,C++, JAVA, HTML ,CSS, JavaScript, Node, MYSQL, PL/SQL
