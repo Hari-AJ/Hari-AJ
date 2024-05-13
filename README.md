@@ -1,3 +1,6 @@
+<img src="images/svg/header_git.svg"></img>
+
+
 - 👋 Hi, I’m @Hari Krishnan AJ
 - 👀 I’m interested in Programming and Web Devolopment 
 - 🌱 I’m currently pursuing B.Tech CSE(IoT)
