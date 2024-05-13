@@ -28,13 +28,22 @@
 
 <table>
   <tr>
+     <td><img src="images/svg/html.png" width="100"></td>
+     <td><img src="images/svg/css.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
      <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="images/svg/react (2).png" width="100"></td>
-   
-    
+    <td><img src="images/svg/nextjs.1024x1024.png" width="100"></td>
+    <td><img src="images/svg/node-js.png" width="100"></td>
+     <td><img src="images/svg/icons8-express-js-100.png" width="100"></td>
+     <td><img src="images/svg/bootstrap.png" width="100"></td>
+     <td><img src="images/svg/icons8-tailwind-css-48.png" width="100"></td>
+      <td><img src="images/svg/mongodb.png" width="100"></td>
+     <td><img src="images/svg/mysql.png" width="100"></td>
+     <td><img src="images/svg/firebase.png" width="100"></td>
+     <td><img src="images/svg/icons8-flutter-48.png" width="100"></td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
@@ -65,7 +74,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-  </tr>
+  </tr> -->
 </table>
 
 <br>
