@@ -4,7 +4,7 @@
 
 ### &nbsp; 🕵🏻 About Me
 
-&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and full-stack development, complemented by specialized experience in blockchain technology. <br>
+&nbsp;&nbsp;A seasoned professional with a robust background in software engineering and full-stack development, complemented by specialized experience in blockchain technology.
 I am adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions.With a deep understanding of both front-end and back-end paradigms, I excel in crafting comprehensive applications that meet modern business needs. <br><br>
 &nbsp;&nbsp;Fueling progress through code, creativity, and continuous learning, while exploring new horizons in digital innovation !<br><br>
 
